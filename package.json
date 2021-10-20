@@ -1,0 +1,22 @@
+{
+  "name": "ytdatabasevisualization",
+  "version": "1.0.0",
+  "description": "Small server for YT Visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3hoursofsleep/ytdatabasevisualization.git"
+  },
+  "author": "Henry Ge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3hoursofsleep/ytdatabasevisualization/issues"
+  },
+  "homepage": "https://github.com/3hoursofsleep/ytdatabasevisualization#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
